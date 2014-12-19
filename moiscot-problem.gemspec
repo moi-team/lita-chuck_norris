@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
-  spec.name          = 'lita-chuck_norris'
+  spec.name          = 'moiscot-problem'
   spec.version       = '0.0.1'
-  spec.authors       = 'Martin Samami'
-  spec.email         = ['martin@digitalkookie.io']
-  spec.description   = %q{Lita handler delivering instafun using Chuck Norris jokes}
-  spec.summary       = %q{Lita handler delivering instafun using Chuck Norris jokes}
-  spec.homepage      = 'https://github.com/MrTin/lita-chuck_norris'
+  spec.authors       = 'Paulo McNally'
+  spec.email         = ['paulomcnally@gmail.com']
+  spec.description   = %q{Lita handler delivering problem word}
+  spec.summary       = %q{Lita handler delivering problem word}
+  spec.homepage      = 'https://github.com/moi-team/moiScot-problem'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)

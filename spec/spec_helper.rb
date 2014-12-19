@@ -8,5 +8,5 @@ SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
 
 SimpleCov.start { add_filter '/spec/' }
 
-require 'lita-chuck_norris'
+require 'moiscot-problem'
 require 'lita/rspec'
