@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = 'moiscot-problem'
-  spec.version       = '0.0.3'
+  spec.version       = '0.0.4'
   spec.authors       = 'Paulo McNally'
   spec.email         = ['paulomcnally@gmail.com']
   spec.description   = %q{Lita handler delivering problem word}
