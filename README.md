@@ -14,7 +14,8 @@ gem 'moiscot-problem'
 ```
 
 ## Usage
-    Lita: problem
+
+    @moiscot: problema
 
 ## Build (development)
 
