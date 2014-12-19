@@ -7,7 +7,7 @@ MOi Solutions problem bot.
 ![A kitten dies every time you say the word problem!](http://i.imgur.com/57kaM.jpg)
 
 ## Installation
-Add lita-chuck_norris to your Gemfile:
+Add moiscot-problem to your Gemfile:
 
 ``` ruby
 gem 'moiscot-problem'
