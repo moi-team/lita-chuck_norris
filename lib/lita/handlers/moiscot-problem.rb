@@ -10,7 +10,7 @@ module Lita
       }
 
       def problem(response)
-        response.reply 'http://i.imgur.com/57kaM.jpg'
+        response.reply 'A kitten dies every time you say the word problem! http://i.imgur.com/57kaM.jpg'
       end
 
 
