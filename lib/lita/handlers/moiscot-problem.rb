@@ -5,13 +5,14 @@ module Lita
 
     class Problem < Handler
 
-      route %r{.+problema.+}i, :problem, command: true, help: {
-          'problem' => 'MOi Solutions problem bot'
-        }
+      route %r{^problema$}i, :problem, command: true, help: {
+        'problem' => 'MOi Solutions problems'
+      }
 
       def problem(response)
-        response.reply 'Hello world'
+        response.reply 'http://i.imgur.com/57kaM.jpg'
       end
+
 
     end
 
